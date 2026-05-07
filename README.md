@@ -1,1 +1,1 @@
-All weekly tasks are submitted here
+All weekly tasks performed during DevOps upskilling are submitted here
